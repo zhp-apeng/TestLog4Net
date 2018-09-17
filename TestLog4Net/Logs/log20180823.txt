@@ -1,0 +1,5 @@
+2018-08-23 14:59:54,636 [14] FATAL TestLog4Net.Controllers.HomeController - info
+2018-08-23 14:59:54,646 [14] ERROR TestLog4Net.Controllers.HomeController - Error
+2018-08-23 14:59:54,646 [14] WARN  TestLog4Net.Controllers.HomeController - Warn
+2018-08-23 14:59:54,647 [14] INFO  TestLog4Net.Controllers.HomeController - info
+2018-08-23 14:59:54,647 [14] DEBUG TestLog4Net.Controllers.HomeController - Debug
